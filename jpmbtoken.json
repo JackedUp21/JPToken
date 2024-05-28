@@ -1,7 +1,7 @@
 {
   "name": "jp and mb token", 
   "symbol": "JPMB",
-  "uri": "TOKEN_URI",
+  "uri": "https://raw.githubusercontent.com/JackedUp21/JPToken/main/jpmb.json",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
