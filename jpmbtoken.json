@@ -1,6 +1,6 @@
 {
-  "name": "TOKEN_NAME", 
-  "symbol": "TOKEN_SYMBOL",
+  "name": "jp and mb token", 
+  "symbol": "JPMB",
   "uri": "TOKEN_URI",
   "sellerFeeBasisPoints": 0,
   "creators": null,
